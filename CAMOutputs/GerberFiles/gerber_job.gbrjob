@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-10-08T19:46:57Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ENGR301-project-Fall2023 "
+        },
+        "Owner": "roththida sok <rsok1@mail.sfsu.edu>",
+        "Size": {
+            "X": 76.2,
+            "Y": 76.2
+        }
+    }
+}
